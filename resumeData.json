@@ -1,0 +1,172 @@
+{
+  "main": {
+    "name":"Thomas Mathai",
+    "occupation":"UI Developer",
+    "description":"5+ Years of experience in Web Development using various open source technologies. ",
+    "image":"profilepic.jpg",
+    "bio":"5+ Years of experience in Web Development using various open source technologies. Writing well designed, testable, efficient code by using best software development practices. Strong personal skills and rapidly adapts to new technologies, standards, and ideas.  Designing, Coding and Modifying websites from layout to function and according to client's requirements.",
+    "email": "mail4thomasmathai@gmail.com",
+    "phone": "890 752 1378",
+    "address":{
+      "street":"Ramamangalam",
+      "city":"Cochin",
+      "state":"Kerala",
+      "zip": "682308"
+    },
+    "website": "",
+    "resumedownload":"https://docs.google.com/document/d/1dgG-yLW349TEM-6asA7C42AZqcAWYmGmE7TziIT8i-Q/edit?usp=drivesdk",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/thomasmathai.mathai.5",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/thomasmathai94",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/wanderer_345_",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/github4thomas",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/UKxZedxD96r7",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Skills & Knowledge",
+    "education":[
+      {
+        "school":"Annamalai University (Distance)",
+        "degree":"BCA",
+        "graduated":"Studying",
+        "description":"Studying"
+      },
+      {
+        "school":"Government Polytechnic College, Pala",
+        "degree":"Diploma in Computer Engineering",
+        "graduated":"2015",
+        "description":"Passed (79%)"
+      },
+      {
+        "school":"St: Peter's HSS, Kolenchery",
+        "degree":"Plus Two",
+        "graduated":"2012",
+        "description":"Passed (78%)"
+      },
+      {
+        "school":"St: Michael's HSS, Kaduthuruthy",
+        "degree":"SSLC",
+        "graduated":"2010",
+        "description":"Passed (88%)"
+      }
+    ],
+    "work":[
+      {
+        "company":"Hashtag Systems India Pvt Ltd, Kochi, Kerala",
+        "title":"UI Developer",
+        "years":"September 2019 - Present",
+        "description":"React js development and API integration, Blockchain development on ethereum."
+      },
+      {
+        "company":"Novo Software Solutions, Kochi, Kerala",
+        "title":"Web Developer",
+        "years":"July 2015 - August 2019",
+        "description":"Designing, Coding and Modifying websites from layout to function and according to client's requirements, Creating website layout/user interfaces by using standard HTML/CSS practices."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS3",
+        "level":"75%"
+      },
+      {
+        "name":"JQUERY",
+        "level":"60%"
+      },
+      {
+        "name":"BOOTSTRAP",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"50%"
+      },
+      {
+        "name":"REACT JS",
+        "level":"65%"
+      },
+      {
+        "name":"ANGULAR",
+        "level":"50%"
+      },
+      {
+        "name":"GIT",
+        "level":"60%"
+      },
+      {
+        "name":"IONIC",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Happy Kids",
+        "category":"School website - UI conversion",
+        "image":"happykids.jpg",
+        "url":"https://www.dagverblijfhappykids.nl/"
+      },
+      {
+        "title":"HED industries",
+        "category":"Demolition services - UI conversion",
+        "image":"hed.png",
+        "url":"https://www.hedindustries.com.au/"
+      },
+      {
+        "title":"1st energy",
+        "category":"Consumer related - UI conversion",
+        "image":"energy.png",
+        "url":"https://1stenergy.com.au/"
+      },
+      {
+        "title":"Sandgate timber",
+        "category":"Timber products - UI conversion",
+        "image":"timber.jpg",
+        "url":"https://sandgatetimber.com.au/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That  must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
