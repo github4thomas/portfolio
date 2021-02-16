@@ -154,6 +154,18 @@
         "category":"Timber products - UI conversion",
         "image":"timber.jpg",
         "url":"https://sandgatetimber.com.au/"
+      },
+      {
+        "title":"Fanconvo",
+        "category":"Fanconvo - Conversion & API integration with React",
+        "image":"fanconvo.png",
+        "url":"https://www.fanconvo.com/"
+      },
+      {
+        "title":"Hashtag",
+        "category":"Hashtag - Conversion & API integration with React",
+        "image":"hashtag.png",
+        "url":"https://hashtag-ca.com/"
       }
     ]
   },
